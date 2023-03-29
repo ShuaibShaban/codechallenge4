@@ -4,8 +4,8 @@ puts "🔥 Deleting existing data and 🔢 Resetting IDs..."
 HeroPower.delete_all
 Power.delete_all
 Hero.delete_all
-ActiveRecord::Base.connection.execute("TRUNCATE TABLE heros RESTART IDENTITY CASCADE")
-ActiveRecord::Base.connection.execute("TRUNCATE TABLE powers RESTART IDENTITY CASCADE")
+# ActiveRecord::Base.connection.execute("TRUNCATE TABLE heros RESTART IDENTITY CASCADE")
+# ActiveRecord::Base.connection.execute("TRUNCATE TABLE powers RESTART IDENTITY CASCADE")
 puts "🗑️  Deleted all existing data..."
 
 
