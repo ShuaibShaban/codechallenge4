@@ -56,8 +56,6 @@
 
 # Routes
 
-### A. <u>pizza</u>
-
 - These are HTTP methods used for interacting with a hypothetical API that deals with pizza-related data. Here's a breakdown of each one:
 
 1. **GET /heroes**
