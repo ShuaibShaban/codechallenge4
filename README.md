@@ -218,8 +218,8 @@
 # Contributor
 
 - [ ![BuiltBy](https://img.shields.io/badge/Built-By-GE7A10?style=flat-square&logo=BuzzFeed&logoColor=white)](https://github.com/ShuaibShaban)
-  **[stevo-nene](https://github.com/ShuaibShaban)**
+  **[ShuaibShaban](https://github.com/ShuaibShaban)**
 
 # License
 
-- **NeneCorp** <span>&copy;</span>
+- **ShuaibShaban** <span>&copy;</span>
